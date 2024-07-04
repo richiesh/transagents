@@ -109,7 +109,7 @@ Both **gpt-4-1106-preview** and **TransAgents** exhibit significant issues with 
 ```bibtex
 @article{wu2024perhaps,
   title={(Perhaps) Beyond Human Translation: Harnessing Multi-Agent Collaboration for Translating Ultra-Long Literary Texts},
-  author={Wu, Minghao and Yuan, Yulin and Haffari, Gholamreza and Wang, Longyue},
+  author={Wu, Minghao and Xu, Jiahao and Yuan, Yulin and Haffari, Gholamreza and Wang, Longyue},
   journal={arXiv preprint arXiv:2405.11804},
   year={2024}
 }
