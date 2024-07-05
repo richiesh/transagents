@@ -28,10 +28,11 @@ We introduce a novel multi-agent framework based on large language models (LLMs)
 
 ## News 🤩🤩🤩
 
+- \[05/07/2024\] 🚀🚀🚀 **TransAgents Demo System** is updated: load balancing, HTTPS, any languages, GPT-4o option.
 - \[27/06/2024\] 🚀🚀🚀 **TransAgents Demo Video** is ready!
 - \[27/06/2024\] 🚀🚀🚀 **TransAgents Demo System** is released at http://www.transagents.ai !
-- \[12/06/2024\] 🚀🚀🚀 The translation outputs given by **TransAgents**, **reference**, and **gpt-4-1106-preview** are released!
-- \[25/05/2024\] 🚀🚀🚀 **Stay tuned for updates!** We will release data and demo.
+- \[12/06/2024\] The translation outputs given by **TransAgents**, **reference**, and **gpt-4-1106-preview** are released!
+- \[25/05/2024\] **Stay tuned for updates!** We will release data and demo.
 
 ## Demo Video
 
