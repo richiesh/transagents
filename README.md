@@ -2,7 +2,7 @@
   <img src="/img/logo.jpg" alt="Logo" width="400">
 </div>
 
-# TransAgents: Multi-Agent for Translating Ultra-Long Literary Texts
+# (Perhaps) Beyond Human Translation: Harnessing Multi-Agent Collaboration for Translating Ultra-Long Literary Texts
 
 <div align="center">
 <img src="https://img.shields.io/badge/License-CC%20BY%204.0-green.svg" alt="License">
