@@ -28,6 +28,7 @@ We introduce a novel multi-agent framework based on large language models (LLMs)
 
 ## News 🤩🤩🤩
 
+- \[29/04/2025\] 🚀🚀🚀 **TransAgents is accepted by TACL!**
 - \[05/07/2024\] 🚀🚀🚀 **TransAgents Demo System** is updated: load balancing, HTTPS, any languages, GPT-4o option.
 - \[27/06/2024\] 🚀🚀🚀 **TransAgents Demo Video** is ready!
 - \[27/06/2024\] 🚀🚀🚀 **TransAgents Demo System** is released at http://www.transagents.ai !
