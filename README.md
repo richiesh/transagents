@@ -11,15 +11,15 @@
 
 <!-- **Authors:** -->
 
-**_¹ [Minghao Wu](https://minghao-wu.github.io/), ³ [Jiahao Xu](https://www.linkedin.com/in/jiahao-xu-539623187) ² [Yulin Yuan](https://fah.um.edu.mo/yulin-yuan), ¹ [Gholamreza Haffari](https://users.monash.edu.au/~gholamrh), ³ [Longyue Wang<sup>*</sup>](http://www.longyuewang.com/)_**
+**<sup>1</sup>[Minghao Wu](https://minghao-wu.github.io/), <sup>2</sup>[Jiahao Xu](https://www.linkedin.com/in/jiahao-xu-539623187) <sup>3</sup>[Yulin Yuan](https://fah.um.edu.mo/yulin-yuan), <sup>1</sup>[Gholamreza Haffari](https://users.monash.edu.au/~gholamrh), <sup>4</sup>[Longyue Wang<sup>*</sup>](http://www.longyuewang.com/) <sup>4</sup>Weihua Luo <sup>4</sup>Kaifu Zhang**
 
 <!-- **Affiliations:** -->
 
-_¹ Monash University, ² University of Macau, ³ Tencent AI Lab_
+_<sup>1</sup> Monash University, <sup>2</sup>Nanyang Technological University, <sup>3</sup>University of Macau, <sup>4</sup>Alibaba International Digital Commerce_
 
 📝 [**Paper**](https://arxiv.org/abs/2405.11804) :technologist: [**Demo**](http://www.transagents.ai) 🗂️ [**Data**](/outputs) 📽️ [**Video**](https://www.youtube.com/watch?v=lB-gPHax4ow)
 
-_<sup>*</sup>Longyue Wang is the corresponding author: [vinnlywang@tencent.com](mailto:{vinnlywang@tencent.com)_
+_<sup>*</sup>Longyue Wang is the corresponding author: [wanglongyue.wly@alibaba-inc.com](mailto:{wanglongyue.wly@alibaba-inc.com)_
 </div>
 
 
